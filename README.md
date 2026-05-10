@@ -1,7 +1,7 @@
 # when-did-you-get-hot
 
 ##  What this project is
-A visual novel dating sim where you realize your childhood friends suddenly got hot and you try to date them. More of a demo than a completed game so far; 2 endings, completed in 12 hours, click and play. Here's a screenshot :p
+A visual novel dating sim where you realize your childhood friends suddenly got hot and you try to date them. More of a demo than a completed game so far; ~3k words, 2 endings, completed in 12 hours, click and play. Here's a screenshot :p
 
 <img width="1338" height="757" alt="Screenshot 2026-05-08 at 12 19 43 PM" src="https://github.com/user-attachments/assets/a735790c-8e9b-40ad-88f6-eb0ebb1959af" />
 
